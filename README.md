@@ -1,27 +1,34 @@
-# Abdollah-Zamannoun
+# Hi there, I'm Abbe Zamannoun  👋 
+
+## I'm a nothing only a human!!
 
 
-<h1 align="center"> Hi there 👋 </h1>
-<p align="center"> I am aayushi Sharma. I Love ❤️ programming and currently working as Machine learning engineer. </p>
-<img align="right" src="https://www.kindpng.com/picc/m/274-2748314_freetoedit-menherachan-animegirl-animecute-png-kawaii-anime-girl.png" height="300" width="300">
-<h3 align="center"> Language & Skills </h3>
+- 🌱 I’m currently learning Full Stack development in University of Birmingham 🤣
+- 🥅 2022 Goals: Learn more about
+- ⚡ Fun fact: I love to read philosophy books and play games.
 
-- Python
-- C++
-- JavaScipt
-- Web Development
-- Machine Learning
-- Deep learning
-- Natural language processing
-- App Development
+### Connect with me:
 
-<h4 align="center">Things got bugs, gonna smash them one by one</h4>
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=aayushi-droid&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats">
+### Languages and Tools:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aayushi-droid&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
-- 📝 I regulary write articles on [Aayushi's Blog](http://aayushi-droid.github.io/)
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
+[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][cssplaylist]
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
 
-<p align="center">
-<a href="https://dev.to/aayushidroid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="aayushi-droid" height="40" width="40" /></a>
-</p>
+[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][webdevplaylist]
+
+
+<br />
+<br />
