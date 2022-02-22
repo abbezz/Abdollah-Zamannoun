@@ -3,9 +3,9 @@
 ## I'm a nothing only a human!!
 
 
-- 🌱 I’m currently learning Full Stack development in University of Birmingham 🤣
+- 🌱 I’m currently learning Full Stack development in University of Birmingham 
 - 🥅 2022 Goals: Learn more about
-- ⚡ Fun fact: I love to read philosophy books and play games.
+- ⚡ Fun fact: I love to read philosophy books and play games (Warzone) 🤣
 
 ### Connect with me:
 
